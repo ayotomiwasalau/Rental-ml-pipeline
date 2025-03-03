@@ -1,0 +1,14 @@
+name: basic_cleaning
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python
+  - hydra-core
+  - matplotlib
+  - pandas
+  - pip
+  - scikit-learn
+  - pip:
+      - mlflow
+      - wandb

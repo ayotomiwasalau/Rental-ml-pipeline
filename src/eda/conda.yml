@@ -1,0 +1,15 @@
+name: eda
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python
+  - hydra-core
+  - matplotlib
+  - pandas
+  - pip
+  - scikit-learn
+  - jupyterlab
+  - pip:
+      - mlflow
+      - wandb
