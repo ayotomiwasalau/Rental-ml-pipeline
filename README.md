@@ -21,4 +21,4 @@ mlflow run . \
 ```
 
 
-Vist [blog](ayotomiwasalau.com) for full details.
+Vist [blog](https://ayotomiwasalau.com/) for full details.
